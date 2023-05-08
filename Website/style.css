@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+header {
+    background-color: #777777;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: #217998;
+    border: none;
+    color: white;
+    padding: 55px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 27px;
+    margin: 20px 2px;
+    cursor: pointer;
+    
+}
+div{
+    text-align: center;
+}
+
+body{
+    font-family: 'Abel', sans-serif;
+}
+
+
+#webcam {
+    clear: both;
+    display: block;
+    margin: 10px auto;
+    background: #000000;
+    width: 640px;
+    height: 480px;
+}
