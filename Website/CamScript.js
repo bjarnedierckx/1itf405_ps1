@@ -62,7 +62,7 @@ function gotResults(error, results) {
 }
 
 function OpenPage(){
-    window.open("Test.html#"+ label);
+    window.open("Info.html#"+ label);
 }
 
 
